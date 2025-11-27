@@ -11,7 +11,7 @@ I'm a Computer Science student passionate about web development with a strong in
 ### 📈 Currently Learning
 - Advanced React patterns
 - Backend development best practices
-- AI aotumatized agents for better solutions
+- AI Agent Automation Services 
 
 ### 🏃‍♂️ Beyond the Code
 When I'm not programming, you'll find me:
