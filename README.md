@@ -5,13 +5,13 @@
 I'm a Computer Science student passionate about web development with a strong interest in cybersecurity. I believe in building not just functional applications, but secure and robust digital solutions that protect user data and privacy.
 
 ### 🛠️ Technologies
-**Frontend:** React, Vue3, Next  
+**Frontend:** Typescript, Tailwind, React, Vue3, Next  
 **Backend:** Node.js, Express
 
 ### 📈 Currently Learning
 - Advanced React patterns
 - Backend development best practices
-- AI Agent Automation Services 
+- AI Agent Automation Services
 
 ### 🏃‍♂️ Beyond the Code
 When I'm not programming, you'll find me:
