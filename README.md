@@ -84,9 +84,4 @@ Open to collaboration opportunities, tech discussions, or local digital projects
 - 📧 **Email:** [jonathanml060506@gmail.com](mailto:jonathanml060506@gmail.com)
 - 📍 **Location:** Los Llanos de Aridane, Santa Cruz de Tenerife, Spain
 
-<div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radial" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radial" alt="Top Languages" height="150"/>
-</div>
 Thanks for visiting my profile!
