@@ -54,6 +54,7 @@ Passionate about modern web development and **cybersecurity**, I focus on writin
 
 ## 🚀 Experience & Highlights
 
+- 💼 **Osorio Lab — Production Client Website (2026):** Full-cycle development of the official site for the Laboratory on Polymer Materials & Organ Printing (University of Bayreuth), live at **[osorio-research.com](https://osorio-research.com)**. Vanilla **TypeScript** compiled to zero-build JavaScript, content-driven architecture (a single `content.json` the client edits without touching code), runtime i18n (64 keys), JSON-LD SEO generated at runtime for 46 publications, XSS-hardened templating and reduced-motion accessibility. **Repo:** [RedBagDude/osorio-lab](https://github.com/RedBagDude/osorio-lab) · [Preview →](https://github.com/RedBagDude/osorio-lab#readme)
 - 💻 **Full Stack Personal Projects (2023 - 2024):** End-to-end web applications with responsive UI/UX, REST API design, database architecture, and performance optimization.
 - 👥 **University Collaborations (2023 - 2024):** Worked alongside professors and students at Universidad de Las Villas developing software modules, backend/frontend integration, and technical documentation.
 - 🏆 **Competitive Programming Training (3 years):** Intensive logic optimization, algorithms, and data structures under strict time constraints.
