@@ -15,13 +15,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** and **Junior Full Stack Developer** with a strong background in **Competitive Programming** (3 years of intensive algorithmic training). I specialize in building functional, responsive, and secure digital solutions.
+I'm a **Computer Science student** and **Junior Full Stack Developer** with a strong background in **competitive programming** (three years of intensive algorithmic training). I specialize in building functional, responsive, and secure digital solutions.
 
 Passionate about modern web development and **cybersecurity**, I focus on writing clean, efficient code and building robust applications that protect user data and privacy while delivering an outstanding user experience.
 
 - 🔭 **Focus:** Full Stack Web Development & AI Agent Automation Services
 - 🎓 **Education:** Computer Science at Universidad de Las Villas (Santa Clara, Cuba)
-- 🧠 **Problem Solving:** 3 years of competitive programming training, with participation in national contests
+- 🧠 **Problem Solving:** Three years of competitive programming training, with participation in national contests
 - 💬 **Languages:** Spanish (Native), English (B1), German (A2)
 
 ---
@@ -54,9 +54,16 @@ Passionate about modern web development and **cybersecurity**, I focus on writin
 
 ## 🚀 Experience & Highlights
 
-- 💼 **Osorio Lab — Production Client Website (2026):** Full-cycle development of the official site for the Laboratory on Polymer Materials & Organ Printing (University of Bayreuth), live at **[osorio-research.com](https://osorio-research.com)**. Built with vanilla **TypeScript** compiled to zero-build JavaScript, on a content-driven architecture (a single `content.json` that the client edits without touching code), runtime i18n (64 keys), JSON-LD SEO generated at runtime for 46 publications, XSS-hardened templating, and reduced-motion accessibility support. **Repo:** [RedBagDude/osorio-lab](https://github.com/RedBagDude/osorio-lab) · [Preview →](https://github.com/RedBagDude/osorio-lab#readme)
+- 💼 **Osorio Lab — Production Client Website (2026):** Full-cycle development of the official site for the Laboratory on Polymer Materials & Organ Printing (University of Bayreuth), live at **[osorio-research.com](https://osorio-research.com)**.
+  - Built with vanilla **TypeScript** compiled to zero-build JavaScript.
+  - Content-driven architecture: a single `content.json` that the client edits without touching code.
+  - Runtime i18n (64 keys).
+  - JSON-LD SEO generated at runtime for 46 publications.
+  - XSS-hardened templating.
+  - Reduced-motion accessibility support.
+  - **Repo:** [RedBagDude/osorio-lab](https://github.com/RedBagDude/osorio-lab) · [Preview →](https://github.com/RedBagDude/osorio-lab#readme)
 - 💻 **Full Stack Personal Projects (2023–2024):** End-to-end web applications featuring responsive UI/UX, REST API design, database architecture, and performance optimization.
-- 👥 **University Collaborations (2023–2024):** Worked alongside professors and students at Universidad de Las Villas, developing software modules, backend/frontend integration, and technical documentation.
+- 👥 **University Collaborations (2023–2024):** Worked alongside professors and students at Universidad de Las Villas to develop software modules, integrate backend and frontend, and produce technical documentation.
 - 🏆 **Competitive Programming Training (3 years):** Intensive work on logic optimization, algorithms, and data structures under strict time constraints.
 
 ---
@@ -81,7 +88,7 @@ When I'm not writing code or analyzing algorithms:
 
 ## 📫 Let's Connect
 
-Open to collaboration opportunities, tech discussions, or local digital projects:
+Open to collaboration opportunities, technical discussions, or local digital projects:
 
 - 📧 **Email:** [jonathanml060506@gmail.com](mailto:jonathanml060506@gmail.com)
 - 📍 **Location:** Los Llanos de Aridane, Santa Cruz de Tenerife, Spain
