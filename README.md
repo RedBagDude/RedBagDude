@@ -106,3 +106,13 @@ When starting a new conversation about a project, the most useful input is a sho
 Written exchanges are welcome in Spanish, English or German. The first is native, the second is at working proficiency and the third is basic, so responses may take a little longer in the last case.
 
 The competitive programming background translates directly into everyday decisions — algorithm choice, complexity and edge cases — so questions about why a particular approach was taken are always fair game.
+
+## Maintenance Defaults and Language Expectations
+
+The maintenance approach favors keeping editable content separate from application logic, as seen in the single content file used for the Osorio Lab site and the runtime internationalization layer. This means content updates can be handled without source-code changes, while translations remain independent of the application flow.
+
+Accessibility and security are expected defaults: reduced-motion preferences are respected, and templating is hardened against injection to protect user data and privacy. These choices should be treated as part of the baseline when reviewing or extending the described projects.
+
+The listed technologies are best understood as a toolbox rather than a fixed requirement, so the stack can be agreed after the problem and the people affected are clear. Written communication is possible in Spanish, English or German, with Spanish native, English at working proficiency and German basic, so replies in German may take longer.
+
+Because the competitive programming background influences algorithm choice, complexity and edge cases, questions about why a particular approach was taken are welcome. When opening a new conversation, a short description of the problem and its intended users is the most useful starting point.
