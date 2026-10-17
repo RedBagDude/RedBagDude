@@ -94,3 +94,15 @@ Open to collaboration opportunities, technical discussions, or local digital pro
 - 📍 **Location:** Los Llanos de Aridane, Santa Cruz de Tenerife, Spain
 
 Thanks for visiting my profile!
+
+## Notes on Collaboration and Project Handover
+
+The projects described above are built with maintenance in mind: the Osorio Lab site keeps every editable text and publication in a single content file, so content updates never require touching the source code, and runtime internationalization keeps translations separate from the application logic.
+
+Accessibility and security are treated as defaults rather than optional extras, which is why reduced-motion preferences are respected and the templating is hardened against injection — both consistent with the stated goal of protecting user data and privacy.
+
+When starting a new conversation about a project, the most useful input is a short description of the problem and the people it affects; the technologies can be agreed afterwards, since the stack listed here works as a toolbox rather than a requirement.
+
+Written exchanges are welcome in Spanish, English or German. The first is native, the second is at working proficiency and the third is basic, so responses may take a little longer in the last case.
+
+The competitive programming background translates directly into everyday decisions — algorithm choice, complexity and edge cases — so questions about why a particular approach was taken are always fair game.
