@@ -116,3 +116,14 @@ Accessibility and security are expected defaults: reduced-motion preferences are
 The listed technologies are best understood as a toolbox rather than a fixed requirement, so the stack can be agreed after the problem and the people affected are clear. Written communication is possible in Spanish, English or German, with Spanish native, English at working proficiency and German basic, so replies in German may take longer.
 
 Because the competitive programming background influences algorithm choice, complexity and edge cases, questions about why a particular approach was taken are welcome. When opening a new conversation, a short description of the problem and its intended users is the most useful starting point.
+
+## Frequently Asked Questions
+
+Whether a given project can be extended depends on the problem being solved and the people it affects, not on the technologies listed above; the stack works as a toolbox, so a short description of the problem is always the most useful starting point.  
+Content changes on the Osorio Lab site never require editing source code, since every editable text and publication lives in a single content file and translations are handled at runtime.  
+Accessibility and security are treated as defaults rather than extras: reduced-motion preferences are respected and the templating is hardened against injection, so both should be assumed when reviewing or extending any of the work described here.  
+Conversations can happen in Spanish, English or German, with Spanish native, English at working proficiency and German basic, so replies in German may take a little longer.  
+Questions about why a particular algorithm, complexity trade-off or edge-case handling was chosen are welcome, as that reasoning comes directly from the competitive programming background.  
+The personal and university projects date from 2023–2024, while the Osorio Lab site is the most recent production example and the clearest reference for how the current approach looks in practice.  
+Current learning is focused on AI agent automation, advanced React patterns and backend work with cybersecurity practices, so those areas are the ones most likely to be under active development.  
+Anything not covered here is best raised through the contact channels listed above, ideally with a brief description of the problem and its intended users.
