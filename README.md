@@ -127,3 +127,17 @@ Questions about why a particular algorithm, complexity trade-off or edge-case ha
 The personal and university projects date from 2023–2024, while the Osorio Lab site is the most recent production example and the clearest reference for how the current approach looks in practice.  
 Current learning is focused on AI agent automation, advanced React patterns and backend work with cybersecurity practices, so those areas are the ones most likely to be under active development.  
 Anything not covered here is best raised through the contact channels listed above, ideally with a brief description of the problem and its intended users.
+
+## Reading Guide for This Profile
+
+The About Me section is the quickest way to understand the focus — full stack web development and AI agent automation — along with the education background and the competitive programming training that shapes how problems are approached.
+
+The Tech Stack is best read as a toolbox rather than a checklist: it reflects what is currently in use, not a requirement for future collaborations, since the stack can be agreed once the problem and the people it affects are clear.
+
+For concrete evidence, the Experience & Highlights section treats the Osorio Lab site as the most recent production example and the clearest reference for the current approach, while the personal and university projects from 2023–2024 show how the same full-cycle work looked at an earlier stage.
+
+Readers interested in how these projects are kept healthy should read the collaboration and maintenance notes together, as they explain the separation between editable content and application logic, the runtime translation layer, and the accessibility and security defaults expected in any review or extension.
+
+Anyone short on time can go straight to the connection details at the end, and those curious about where active development is heading will find it in the currently-learning list.
+
+Further questions about a specific project, a collaboration idea or a technical decision are best raised through the contact channels, ideally accompanied by a short description of the problem and its intended users.
