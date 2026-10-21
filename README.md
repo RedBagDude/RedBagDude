@@ -141,3 +141,17 @@ Readers interested in how these projects are kept healthy should read the collab
 Anyone short on time can go straight to the connection details at the end, and those curious about where active development is heading will find it in the currently-learning list.
 
 Further questions about a specific project, a collaboration idea or a technical decision are best raised through the contact channels, ideally accompanied by a short description of the problem and its intended users.
+
+## Scope Notes and Reasonable Expectations
+
+Everything described in this profile reflects the work of a Computer Science student and junior full stack developer, so it should be read as an accurate picture of current practice rather than a claim of senior-level specialization across every listed area.
+
+The Osorio Lab site is the single production reference point and the clearest example of how content separation, runtime translation, accessibility support and injection hardening are actually applied, while the personal and university projects from 2023–2024 show earlier, smaller-scale work and should be read in that light.
+
+The technologies in the tech stack indicate what is currently in use, not a commitment to any particular combination, since the stack is agreed once the problem and the people it affects are understood.
+
+The currently-learning list marks active development rather than finished expertise, so questions or proposals around AI agent automation, advanced React patterns or backend security are best framed as shared exploration rather than as requests for settled answers.
+
+Language expectations are stated plainly: Spanish is native, English is at working proficiency and German is basic, so written exchanges in German may take a little longer to answer.
+
+Anything beyond these notes — a specific project, a collaboration idea or a technical decision — is best raised through the listed contact channels, ideally with a short description of the problem and its intended users.
