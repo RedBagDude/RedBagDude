@@ -155,3 +155,15 @@ The currently-learning list marks active development rather than finished expert
 Language expectations are stated plainly: Spanish is native, English is at working proficiency and German is basic, so written exchanges in German may take a little longer to answer.
 
 Anything beyond these notes — a specific project, a collaboration idea or a technical decision — is best raised through the listed contact channels, ideally with a short description of the problem and its intended users.
+
+## Using This Profile as a Learning Reference
+
+For anyone reading this profile to learn rather than to hire, the most instructive single artifact is the Osorio Lab site: a production project built with vanilla TypeScript compiled to zero-build JavaScript, where every editable text and publication lives in a single content file and translations are applied at runtime. Studying it side by side with the experience notes shows how content, presentation and translation can be kept apart in a small real-world codebase, and where accessibility and injection hardening sit in that structure.
+
+The competitive programming years are best read as an explanation of habit rather than as a credential. Training under strict time constraints is what makes algorithm choice, complexity and edge cases show up early in everyday decisions, so readers with a similar background will recognize the reasoning behind many of the trade-offs described here.
+
+The currently-learning list marks areas under active study, not finished expertise. Anyone working through AI agent automation, advanced React patterns or backend security can treat those topics as shared ground for an exchange rather than as a place to look for settled answers.
+
+The tech stack rewards selective reading: it reflects what is currently in use, so a learner is better served by picking the tool closest to the problem at hand than by trying to cover every badge. The personal and university projects from 2023–2024 then offer a smaller-scale view of the same full-cycle work, from responsive interface to API and database.
+
+Specific questions about a decision, a project or a study path are welcome through the contact channels listed above, and a short description of the problem and its intended users remains the most useful way to start.
