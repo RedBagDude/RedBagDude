@@ -167,3 +167,19 @@ The currently-learning list marks areas under active study, not finished experti
 The tech stack rewards selective reading: it reflects what is currently in use, so a learner is better served by picking the tool closest to the problem at hand than by trying to cover every badge. The personal and university projects from 2023–2024 then offer a smaller-scale view of the same full-cycle work, from responsive interface to API and database.
 
 Specific questions about a decision, a project or a study path are welcome through the contact channels listed above, and a short description of the problem and its intended users remains the most useful way to start.
+
+## Practical Summary of How the Work Is Organized
+
+A few principles repeat across this profile: editable content stays separate from application logic, translations are handled at runtime, and accessibility and security are assumed as defaults rather than treated as extras.
+
+The Osorio Lab site is the clearest production example of those principles, while the personal and university projects from 2023–2024 show the same full-cycle work at an earlier, smaller scale.
+
+The listed technologies reflect current use rather than a fixed requirement, so a stack can be agreed once the problem and the people it affects are understood.
+
+The competitive programming background explains a habit rather than serving as a credential: algorithm choice, complexity and edge cases tend to be weighed early in everyday decisions.
+
+The currently-learning list marks areas of active study, so proposals around AI agent automation, advanced React patterns or backend security are better framed as shared exploration than as requests for settled answers.
+
+Written exchanges are possible in Spanish, English or German, with the first native, the second at working proficiency and the third basic, so replies in the last case may take a little longer.
+
+For anything specific, a short description of the problem and its intended users remains the most useful way to start through the contact channels listed above.
