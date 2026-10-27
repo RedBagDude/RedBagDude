@@ -183,3 +183,12 @@ The currently-learning list marks areas of active study, so proposals around AI 
 Written exchanges are possible in Spanish, English or German, with the first native, the second at working proficiency and the third basic, so replies in the last case may take a little longer.
 
 For anything specific, a short description of the problem and its intended users remains the most useful way to start through the contact channels listed above.
+
+## Before You Reach Out
+The most useful first message describes the problem and the people it affects, leaving the technology choice for later.
+The stack shown above is a toolbox rather than a requirement, so it should not be treated as a fixed checklist for a new project.
+Written exchanges can happen in Spanish, English or German, with Spanish native, English at working proficiency and German basic, so replies in German may take a little longer.
+Questions about algorithm choice, complexity or edge-case handling are welcome, since that reasoning comes from the competitive programming background.
+The currently-learning list marks areas of active study, so AI agent automation, advanced React patterns and backend security are better discussed as shared exploration than as settled expertise.
+Content changes on the Osorio Lab site do not require editing source code, because editable text and publications live in a single content file and translations are applied at runtime.
+Accessibility and security are expected defaults in the described work, with reduced-motion support and injection-hardened templating treated as part of the baseline.
