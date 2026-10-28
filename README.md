@@ -192,3 +192,14 @@ Questions about algorithm choice, complexity or edge-case handling are welcome, 
 The currently-learning list marks areas of active study, so AI agent automation, advanced React patterns and backend security are better discussed as shared exploration than as settled expertise.
 Content changes on the Osorio Lab site do not require editing source code, because editable text and publications live in a single content file and translations are applied at runtime.
 Accessibility and security are expected defaults in the described work, with reduced-motion support and injection-hardened templating treated as part of the baseline.
+
+## A Short Checklist for Reviewing the Described Work
+
+Start by identifying the problem and the people affected, then treat the listed technologies as a toolbox rather than a fixed requirement.  
+For the Osorio Lab site, check that editable text and publications remain in the single content file and that translations stay at runtime, since content updates should not require source-code changes.  
+Confirm that accessibility and security are treated as defaults: reduced-motion preferences should be respected and templating should remain hardened against injection.  
+Read the personal and university projects from 2023–2024 as earlier, smaller-scale examples of the same full-cycle work rather than as equivalent production references.  
+Treat the currently-learning list as active study, so AI agent automation, advanced React patterns and backend security are better reviewed as shared exploration than as settled expertise.  
+Use Spanish, English or German for written exchanges, keeping in mind that Spanish is native, English is working proficiency and German is basic, so replies in German may take longer.  
+If a decision about algorithm choice, complexity or edge cases needs context, ask directly; that reasoning comes from the competitive programming background described above.  
+For anything outside these notes, begin with a brief description of the problem and its intended users through the contact channels already listed.
