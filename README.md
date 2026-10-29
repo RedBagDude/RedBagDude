@@ -203,3 +203,14 @@ Treat the currently-learning list as active study, so AI agent automation, advan
 Use Spanish, English or German for written exchanges, keeping in mind that Spanish is native, English is working proficiency and German is basic, so replies in German may take longer.  
 If a decision about algorithm choice, complexity or edge cases needs context, ask directly; that reasoning comes from the competitive programming background described above.  
 For anything outside these notes, begin with a brief description of the problem and its intended users through the contact channels already listed.
+
+## Accessibility and Security as Working Defaults
+
+Two concerns in the work described above are treated as baseline conditions rather than optional additions, and both should be assumed when reviewing or extending any of the projects mentioned.
+The first is accessibility: respecting reduced-motion preferences is part of how the Osorio Lab site is built, not a later fix to be scheduled once the main features are done.
+The second is security: templating is hardened against injection, a choice consistent with the stated goal of protecting user data and privacy while delivering a solid user experience.
+Because these are defaults, a review that finds them missing should be read as a regression from the described standard rather than as an open design decision still to be discussed.
+The same expectation applies to keeping editable content separate from application logic, which lets updates happen without touching source code and keeps translations at runtime.
+None of this depends on a particular entry in the tech stack, since the stack works as a toolbox and the problem and the people it affects come first.
+Readers who want to judge whether these defaults hold in practice should look at the Osorio Lab site as the production reference, and at the 2023–2024 personal and university projects as earlier, smaller-scale examples of the same full-cycle work.
+Questions about how either concern was handled in a specific place are welcome through the contact channels listed above.
