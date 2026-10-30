@@ -214,3 +214,13 @@ The same expectation applies to keeping editable content separate from applicati
 None of this depends on a particular entry in the tech stack, since the stack works as a toolbox and the problem and the people it affects come first.
 Readers who want to judge whether these defaults hold in practice should look at the Osorio Lab site as the production reference, and at the 2023–2024 personal and university projects as earlier, smaller-scale examples of the same full-cycle work.
 Questions about how either concern was handled in a specific place are welcome through the contact channels listed above.
+
+## Interpreting the Production Example
+
+The Osorio Lab site is the clearest reference for how the described principles appear in practice, so it is useful to read it as a worked example rather than as a separate entry in the list.
+Its editable text and publications are kept in one content file, while translations are handled at runtime, showing how content updates can avoid touching application logic.
+The same example shows accessibility and security as defaults: reduced-motion preferences are respected and templating is hardened against injection.
+It also uses vanilla TypeScript compiled to zero-build JavaScript, with runtime-generated JSON-LD for the publications and an architecture driven by the content file.
+Readers comparing it with the 2023–2024 personal and university projects should treat those as earlier, smaller-scale examples of the same full-cycle work.
+None of these details turn the stack into a requirement; the problem and the people affected still come first, and the technology can be agreed afterwards.
+Questions about specific choices in the example are best raised through the listed contact channels, ideally with a short description of the problem and its intended users.
