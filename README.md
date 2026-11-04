@@ -224,3 +224,14 @@ It also uses vanilla TypeScript compiled to zero-build JavaScript, with runtime-
 Readers comparing it with the 2023–2024 personal and university projects should treat those as earlier, smaller-scale examples of the same full-cycle work.
 None of these details turn the stack into a requirement; the problem and the people affected still come first, and the technology can be agreed afterwards.
 Questions about specific choices in the example are best raised through the listed contact channels, ideally with a short description of the problem and its intended users.
+
+## Where the Same Decisions Reappear Across Projects
+
+Although the projects described in this profile differ in size and date, the same decisions tend to reappear in each of them, so recognizing those patterns is often faster than reading every detail separately.
+Editable content is kept apart from application logic, which is why content updates can happen without touching source code and why translations are applied at runtime rather than being woven into the interface.
+Accessibility and security sit at the same level of priority: reduced-motion preferences are respected as a baseline and templating is hardened against injection, so both are expected from the start rather than added later.
+The competitive programming background shows up as a habit of weighing algorithm choice, complexity and edge cases early, before the shape of a solution is settled.
+The listed technologies follow those decisions instead of leading them, working as a toolbox from which a combination is chosen once the problem and the people it affects are clear.
+The Osorio Lab site is the fullest expression of these patterns in production, while the personal and university projects from 2023–2024 show the same reasoning at a smaller scale.
+The currently-learning list marks where those patterns are still being extended, so AI agent automation, advanced React patterns and backend security are areas of exploration rather than settled ground.
+Anyone reviewing or extending the work can use these recurring decisions as a quick check: if one of them appears to be missing, it is more likely a gap than a deliberate alternative.
