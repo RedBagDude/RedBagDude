@@ -235,3 +235,13 @@ The listed technologies follow those decisions instead of leading them, working 
 The Osorio Lab site is the fullest expression of these patterns in production, while the personal and university projects from 2023–2024 show the same reasoning at a smaller scale.
 The currently-learning list marks where those patterns are still being extended, so AI agent automation, advanced React patterns and backend security are areas of exploration rather than settled ground.
 Anyone reviewing or extending the work can use these recurring decisions as a quick check: if one of them appears to be missing, it is more likely a gap than a deliberate alternative.
+
+## A Note on Dates, Recency, and What They Signal
+
+The dates in this profile are meant to place each piece of work rather than rank it, so they are worth reading alongside the sections that describe it.
+The personal and university projects belong to 2023–2024 and represent earlier, smaller-scale examples of the same full-cycle work, from responsive interface to API design and database architecture.
+The Osorio Lab site is the most recent production example and therefore the clearest reference for how the current approach looks in practice, including content separation, runtime translation, accessibility support and injection hardening.
+The currently-learning list works differently: it marks areas under active study rather than finished work, so AI agent automation, advanced React patterns and backend security should be read as directions being explored.
+The tech stack follows the same logic in reverse, since it records what is currently in use and can be agreed differently once the problem and the people it affects are clear.
+Taken together, these signals make it easier to tell an earlier example from a current reference, and an area of study from a settled practice.
+Anyone unsure which part of the profile applies to a specific question is welcome to ask through the contact channels listed above, ideally with a short description of the problem and its intended users.
