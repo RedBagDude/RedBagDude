@@ -94,3 +94,17 @@ Open to collaboration opportunities, technical discussions, or local digital pro
 - 📍 **Location:** Los Llanos de Aridane, Santa Cruz de Tenerife, Spain
 
 Thanks for visiting my profile!
+
+## How to Read the Currently Learning Items
+
+The entries under Currently Learning describe active study, not finished proficiency, and they are listed to show direction rather than to claim production experience.
+
+Where a topic overlaps with the Tech Stack, such as React, the stack entry covers what is already used in personal and university projects, while the learning entry covers the next level of depth being pursued.
+
+AI agent automation, advanced React patterns, and backend security practices currently receive the most deliberate practice, so project work may increasingly lean in those directions over time.
+
+Backend security sits alongside cybersecurity as a stated area of interest in the profile, and it is treated as a working default rather than a specialist claim.
+
+Nothing in that list carries a timeline or a promise of delivery. Progress depends on coursework and project commitments, so the section may remain unchanged for a period and then shift as priorities move.
+
+Anyone reviewing the profile for a role or collaboration should read these items as context for a conversation and feel free to ask directly about current comfort level with any of them.
