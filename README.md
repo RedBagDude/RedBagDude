@@ -108,3 +108,15 @@ Backend security sits alongside cybersecurity as a stated area of interest in th
 Nothing in that list carries a timeline or a promise of delivery. Progress depends on coursework and project commitments, so the section may remain unchanged for a period and then shift as priorities move.
 
 Anyone reviewing the profile for a role or collaboration should read these items as context for a conversation and feel free to ask directly about current comfort level with any of them.
+
+## Reading the Competitive Programming Background
+
+The three years of competitive programming training described in the profile reflect sustained practice in algorithmic thinking, data structures, and logic optimization under strict time constraints, rather than a catalogue of rankings or titles.
+
+It is best read as evidence of problem-solving discipline that carries into development work: breaking a problem into smaller parts, reasoning about edge cases, and improving performance where it matters.
+
+That background should not be taken as a claim of production experience with any specific framework or tool; the client and personal project work described elsewhere is the place to look for that.
+
+Because contests reward correctness and speed on well-defined problems, the habit tends to surface in how university collaborations and side projects are structured and reviewed.
+
+Anyone assessing the profile for a role or collaboration can treat this training as context for how problems get approached, and is welcome to ask directly about particular algorithms, techniques, or lessons carried over into regular development work.
