@@ -120,3 +120,17 @@ That background should not be taken as a claim of production experience with any
 Because contests reward correctness and speed on well-defined problems, the habit tends to surface in how university collaborations and side projects are structured and reviewed.
 
 Anyone assessing the profile for a role or collaboration can treat this training as context for how problems get approached, and is welcome to ask directly about particular algorithms, techniques, or lessons carried over into regular development work.
+
+## What the Tech Stack Section Covers and What It Leaves Out
+
+The Tech Stack section groups the technologies that appear in personal and university project work, organized into frontend, backend and databases, and tools and workflow; that grouping is purely organizational and does not imply a ranking, a priority order, or an equal level of depth across entries.
+
+Each entry means the technology has actually been used in something described on this profile, not that it has been mastered to the same degree as every other item in the list.
+
+React is a useful example of how to read overlaps: it appears in the stack because it is used in project work, while the Currently Learning section explains the deeper patterns being studied on top of that working use.
+
+The list is deliberately not exhaustive, so a missing tool, library, or utility should not be read as unfamiliarity; smaller pieces show up inside projects without being named individually here.
+
+No versions, release channels, or performance claims are attached to any item, and none should be inferred from the badges, their order, or their grouping.
+
+When a specific technology matters for a role or a collaboration, the list is best treated as a starting point for a direct question rather than as a substitute for one.
