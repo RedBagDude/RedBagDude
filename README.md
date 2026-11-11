@@ -134,3 +134,15 @@ The list is deliberately not exhaustive, so a missing tool, library, or utility 
 No versions, release channels, or performance claims are attached to any item, and none should be inferred from the badges, their order, or their grouping.
 
 When a specific technology matters for a role or a collaboration, the list is best treated as a starting point for a direct question rather than as a substitute for one.
+
+## Language and Location in Practice
+
+The profile lists Spanish as native, English at B1, and German at A2, so technical conversation is most comfortable in Spanish, while English at that level is workable for documentation, code reading, and project discussions as long as both sides allow for clarification.
+
+German should be read as a developing skill rather than a working language for delivery, and it is not a reliable channel for detailed technical exchange at this stage.
+
+The location given, Los Llanos de Aridane in the Canary Islands, is the reference point for scheduling and for the local digital projects mentioned in the profile; work with people elsewhere is possible, but overlapping hours are best confirmed rather than assumed.
+
+Nothing in the profile promises availability in a particular time window, and coursework takes priority during term time, so response times may vary accordingly.
+
+Where language or scheduling could affect delivery, the practical approach is to agree early on which language is used for documents, issues, and meetings, and what overlap is realistic, before any work begins.
