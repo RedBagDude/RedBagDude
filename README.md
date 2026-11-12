@@ -94,3 +94,12 @@ Open to collaboration opportunities, technical discussions, or local digital pro
 - 📍 **Location:** Los Llanos de Aridane, Santa Cruz de Tenerife, Spain
 
 Thanks for visiting my profile!
+
+## Verifiable Details Versus Described Work
+
+The experience section mixes entries with quite different levels of detail, and reading each one at its own level avoids wrong conclusions.
+The Osorio Lab client site is the only entry backed by public artifacts: a repository reference, a live address, and concrete implementation choices such as the editable content file, runtime internationalization, structured SEO data generated at runtime, hardened templating, and reduced-motion support.
+The Full Stack personal projects and the university collaborations from 2023–2024 are summarized instead: responsive interfaces, REST API design, database architecture, performance work, module integration, and technical documentation, without naming specific products.
+The competitive programming training works as background on problem solving rather than as a delivered product.
+Treat the client site as the concrete demonstration of how the listed stack is applied in practice, and the remaining entries as evidence of breadth and consistency rather than as equivalents.
+If a summarized entry matters for a decision, ask for specifics instead of inferring scope from the wording.
