@@ -87,4 +87,3 @@ Open to collaboration opportunities, technical discussions, or local digital pro
 - 📍 **Location:** Los Llanos de Aridane, Santa Cruz de Tenerife, Spain
 
 Thanks for visiting my profile!
-
